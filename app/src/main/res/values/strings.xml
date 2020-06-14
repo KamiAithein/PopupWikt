@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopupWikt</string>
+    <string name="title_activity_transparent">TransparentActivity</string>
+    <string name="dialog_fire_missiles">fire missiles</string>
+    <string name="fire">fire</string>
+    <string name="cancel">cancelled</string>
+</resources>
